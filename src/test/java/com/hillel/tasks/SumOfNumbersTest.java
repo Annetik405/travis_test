@@ -10,7 +10,7 @@ import static org.junit.Assert.assertThat;
  */
 public class SumOfNumbersTest {
 
-  @Test 
+  @Test
   public void testSum() {
 
 
